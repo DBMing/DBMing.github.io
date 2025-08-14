@@ -1,9 +1,57 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我 🌟
 
-::github{repo="saicaca/fuwari"}
+欢迎来到我的个人博客！我是 **DBMing**，一个热爱技术与创作的开发者。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 👨‍💻 个人简介
+
+其实我啥也不会，除了会敲敲键盘、写点 bug，剩下的全靠Google和 ChatGPT。
+哈哈哈，技术全靠缘分，学习全靠心情，欢迎一起摸鱼交流！
+
+### 🔧 技术栈
+
+- **嘻嘻，啥也不会**: 
+
+### 🎯 兴趣爱好
+
+- 📚 **学习新技术** - 保持对新技术的好奇心
+- 🎨 **UI/UX设计** - 追求优雅的用户体验
+- 🌱 **开源贡献** - 参与开源项目，回馈社区
+- ✍️ **技术写作** - 分享学习心得和项目经验
+
+## 📝 关于博客
+
+这个博客基于 [Fuwari](https://github.com/saicaca/fuwari) 主题构建，使用 Astro 静态站点生成器。在这里我会分享：
+
+- 💡 **技术教程** - 实用的编程技巧和最佳实践
+- 🚀 **项目分享** - 有趣的开源项目和个人作品
+- 🤔 **思考笔记** - 对技术发展和行业趋势的思考
+- 📖 **学习记录** - 新技术的学习过程和心得
+
+## 🌈 联系方式
+
+- 📧 **邮箱**: [contact@dbming.com](mailto:2577786714@qq.com)
+- 🐙 **GitHub**: [@DBMing](https://github.com/DBMing)
+
+## 💌 留言
+
+如果您对我的博客内容有任何建议，或者想要交流技术问题，欢迎通过以上方式联系我！也可以在文章下方留言，我会尽快回复。
+
+---
+
+> ### 🎨 网站图片来源
+> 
+> 本站使用的图片来源：
+> - [Unsplash](https://unsplash.com/) - 免费高质量图片
+> - [Pixiv](https://www.pixiv.net/) - 精美插画作品
+> 
+> 感谢这些平台和创作者提供的优质资源！
+
+---
+
+<div align="center">
+
+**感谢您的访问！** 🙏
+
+*让我们一起在代码的世界里探索无限可能！*
+
+</div>
